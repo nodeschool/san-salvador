@@ -1,0 +1,9 @@
+title: NodeSchool San Salvador
+description: >- 
+  NodeSchool San Salvador es un evento gratuito dedicado a ayudar a que más personas aprendan programación a través de JavaScript. 
+  Ayudamos a personas de todos los niveles de habilidades, desde principiantes hasta expertos.
+baseurl: ""
+url: "https://nodeschool.io/san-salvador/"
+
+# Build settings
+markdown: kramdown

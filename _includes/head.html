@@ -1,0 +1,32 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:300,600,700|Open+Sans" rel="stylesheet">
+
+  <style>
+    .blue {
+      color: #2962FF;
+    }
+
+    .nunito {
+      font-family: 'Nunito', sans-serif;
+    }
+
+    .open-sans {
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    body {
+      font-size: 18px;
+      font-family: 'Open Sans', sans-serif;
+      border-top: 10px solid #2962FF;
+    }
+  </style>
+
+</head>
