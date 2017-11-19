@@ -52,7 +52,7 @@ layout: default
       <li>5:30 - Fin del evento</li>
     </ul>
   </div>
-  <div class="pb3 bb b--light-gray">
+  <div class="pb3 bb b--light-gray" id="mentores">
     <h3 class="fw6">¿Como puedo participar como mentor?</h3>
     <p>Los requisitos son los siguientes:</p>
     <ol>
