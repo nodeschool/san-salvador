@@ -58,7 +58,7 @@ layout: default
     <ol>
       <li>Completar el <a href="https://www.github.com/sethvincent/javascripting">workshopper de javascripting</a> (cualquier <a href="https://nodeschool.io/#workshopper-list">otro workshopper</a> adicional es un plus)</li>
       <li>Leer <a href="https://github.com/nodeschool/organizers/wiki/Event-Mentor-Best-Practices">Mentor Best Practices</a></li>
-      <li><a href="https://github.com/devs-sv/codigo-de-conducta">Mentor Best Practices</a></li>
+      <li>Leer nuestro <a href="https://github.com/devs-sv/codigo-de-conducta">código de conducta</a></li>
       <li>Notificar a algunos organizadores del evento</li>
       <li>Presentarse media hora antes del evento para una reunion de mentores</li>
     </ol>
